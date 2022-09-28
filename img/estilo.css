@@ -1,0 +1,40 @@
+
+
+h1{ font-size: 37px;
+    
+line-height: 46px;
+font-family: tahoma, Helvetica, sans-serif;
+color: #000000;
+text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    font-family: Tahoma, helvetica, sans-serif;
+    line-height: 38px;
+    text-align: justify;
+
+
+}
+
+
+header {color: azure;
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+transition-delay: 2ms;
+ font-family: cursive ;}
+
+p{font-size: 18px;
+line-height: 27px;
+color: tify;
+font-family: cursive;
+text-align: center;
+color: rgb(255, 254, 254);
+background-color: red;}
+
+
+
+
+h5{color: rgb(253, 250, 252);
+font-size: large;
+font-style: italic;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
